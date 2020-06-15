@@ -1,0 +1,11 @@
+D:\VB\Screw1\Screw1\bin\Debug\Screw1.exe.config
+D:\VB\Screw1\Screw1\bin\Debug\Screw1.exe
+D:\VB\Screw1\Screw1\bin\Debug\Screw1.pdb
+D:\VB\Screw1\Screw1\bin\Debug\Screw1.xml
+D:\VB\Screw1\Screw1\obj\Debug\Screw1.vbprojAssemblyReference.cache
+D:\VB\Screw1\Screw1\obj\Debug\Screw1.Form1.resources
+D:\VB\Screw1\Screw1\obj\Debug\Screw1.Resources.resources
+D:\VB\Screw1\Screw1\obj\Debug\Screw1.vbproj.GenerateResource.cache
+D:\VB\Screw1\Screw1\obj\Debug\Screw1.exe
+D:\VB\Screw1\Screw1\obj\Debug\Screw1.xml
+D:\VB\Screw1\Screw1\obj\Debug\Screw1.pdb
